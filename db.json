@@ -1,145 +1,132 @@
 {
-  "video": [
-    {
-      "id": "1",
-      "caption": "NEELA NILAVE - RDX",
-      "url": "https://i.ytimg.com/vi/8o5UAHj5IqM/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGYgZihmMA8=&rs=AOn4CLBnrmxR0xN6dJbE-dtQ6eC-ZgsWyw",
-      "embedlink": "https://www.youtube.com/embed/nYEoxne_20Y"
-    },
+  "events": [
     {
       "id": "4",
-      "caption": "HEERIYE",
-      "url": "https://i.ytimg.com/vi/CpEKIMVAILI/mqdefault.jpg",
-      "embedlink": "https://www.youtube.com/embed/RLzC55ai0eo"
-    },
-    {
-      "id": "7",
-      "caption": "APNA BANA LE - BHEDIYA",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEzY5JvJVxTlD-4l2bwS6sWjHi7TqFBKX5i-w3nrvp4yNKI6LH7iLacXDQyuIUf4fRQOyxH6gBxyXPq3F1TsnyVaNSQt2Gd043VTT1ZIgBngWQXGrJyjEwwSFv13wAUfvnl9XXFXV7uQ3dnNdbLwj9ZE7N8ryi_7LqMk6COrT3Yf_mMEgj9AffWtHHHA/s1280/maxresdefault.jpg",
-      "embedlink": "https://www.youtube.com/embed/ElZfdU54Cp8"
+      "image": "https://hire4event.com/blogs/wp-content/uploads/2019/03/best-artists-for-events.jpg",
+      "name": "Beat Burst",
+      "email": "beatburst@gmail.com",
+      "venue": "Mumbai",
+      "time": "22:15",
+      "date": "2023-12-05"
     },
     {
       "id": "8",
-      "caption": "GUL",
-      "url": "https://i.ytimg.com/vi/SmaY7RfBgas/sddefault.jpg?v=60eeecd1",
-      "embedlink": "https://www.youtube.com/embed/SmaY7RfBgas"
+      "image": "https://media.istockphoto.com/id/1324561072/photo/party-people-enjoy-concert-at-festival-summer-music-festival.jpg?s=612x612&w=0&k=20&c=rT--yThoBJSdYFUb9nm-7oDvBZuhNE9LmB5uYmlxvSs=",
+      "name": "Spliff Soul",
+      "email": "spliffsoul@gmail.com",
+      "venue": "Mumbai",
+      "time": "22:00",
+      "date": "2023-11-30"
     },
     {
-      "id": "9",
-      "caption": "AARADHYA - KUSHI",
-      "url": "https://i.ytimg.com/vi/Z8QTSuqF60k/hqdefault.jpg",
-      "embedlink": "https://www.youtube.com/embed/hg_p_RCs_Ug"
+      "id": "1",
+      "image": "https://jooinn.com/images/music-event-2.jpg",
+      "name": "Fusion Fiesta",
+      "email": "fusionfiesta@gmail.com",
+      "venue": "Kochi",
+      "time": "21:30",
+      "date": "2023-12-04"
+    },
+    {
+      "id": "3",
+      "image": "https://media.istockphoto.com/photos/dancing-at-disco-picture-id535403859?k=20&m=535403859&s=612x612&w=0&h=vurca_yUrEj-VrDYsAejoEuS2h3YzrppFbxNq_kBZd0=",
+      "name": "Dance Fever",
+      "email": "dancefever@gmail.com",
+      "venue": "Hampi",
+      "time": "21:30",
+      "date": "2023-11-30"
+    },
+    {
+      "id": "5",
+      "image": "https://d1k571r5p7i4n1.cloudfront.net/c.1892/large/upcoming_concerts_live_concert_Westlife_LANY.jpg",
+      "name": "Xreo Concerts",
+      "email": "xreoconcerts@gmail.com",
+      "venue": "Chennai",
+      "time": "21:30",
+      "date": "2023-12-02"
+    },
+    {
+      "id": "6",
+      "image": "https://media.istockphoto.com/id/1191407748/photo/dj-mixing-outdoor-at-new-year-party-festival-with-crowd-of-people-in-background-nightlife.jpg?s=612x612&w=0&k=20&c=RkvVXT4TGEJ4QDSRYrwLJu_tOyT6ALVs97l1CnW7RF0=",
+      "name": "Urban Beatz",
+      "email": "urbanbeatz2gmail.com",
+      "venue": "Mumbai",
+      "time": "20:40",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "7",
+      "image": "https://img.redbull.com/images/c_crop,w_7717,h_3859,x_0,y_1084,f_auto,q_auto/c_scale,w_1200/redbullcom/2017/10/12/65af13a0-e540-4ef2-a187-320ddb440447/dj-abstract",
+      "name": "Beat Burst",
+      "email": "beatburst@gmail.com",
+      "venue": "Goa",
+      "time": "21:45",
+      "date": "2023-12-05"
     },
     {
       "id": "10",
-      "caption": "DANDELIONS",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs6n5q2FJXE05jzSDWbHRFh-817jKVMK6rE1xJAoNOpozGkCx5H0xdezXGOx-I0GfGkuAtKJIVPNm-rb0w6_KiUStrptNf3DmijJvZTkIMHtNUPpNNcjh1MDMXScLeCj1UaNDrvnENg3AtIArYNvlGnMg2HQumn3wDxuSwEzEwWqn1zYFxv_EZcV2a4Q/s1080/png_20230418_214843_0000.png",
-      "embedlink": "https://www.youtube.com/embed/PrYfOzRYwFc"
+      "image": "https://as2.ftcdn.net/v2/jpg/03/55/25/53/1000_F_355255340_ptUF5hTq4uz3FnlnixxHzAyA7A0HMII1.jpg",
+      "name": "Bass Blasters",
+      "email": "bassblasterz@gmail.com",
+      "venue": "Delhi",
+      "time": "21:45",
+      "date": "2023-12-13"
+    },
+    {
+      "id": "17",
+      "image": "https://t3.ftcdn.net/jpg/02/87/35/70/360_F_287357045_Ib0oYOxhotdjOEHi0vkggpZTQCsz0r19.jpg",
+      "name": "Club Lights",
+      "email": "clublights@gmail.com",
+      "venue": "Kochi",
+      "time": "12:00",
+      "date": "2023-11-29"
     }
   ],
   "category": [
     {
-      "categoryName": "Malayalam Songs",
-      "allvideos": [
+      "category": "DJ Events",
+      "allEvents": [
         {
           "id": "4",
-          "caption": "HEERIYE",
-          "url": "https://i.ytimg.com/vi/CpEKIMVAILI/mqdefault.jpg",
-          "embedlink": "https://www.youtube.com/embed/RLzC55ai0eo"
+          "image": "https://hire4event.com/blogs/wp-content/uploads/2019/03/best-artists-for-events.jpg",
+          "name": "Beat Burst",
+          "email": "beatburst@gmail.com",
+          "venue": "Mumbai",
+          "time": "22:15",
+          "date": "2023-12-05"
         }
       ],
-      "id": 11
-    },
-    {
-      "categoryName": "English Songs",
-      "allvideos": [],
-      "id": 20
-    },
-    {
-      "categoryName": "Hindi songs",
-      "allvideos": [
-        {
-          "id": "10",
-          "caption": "DANDELIONS",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs6n5q2FJXE05jzSDWbHRFh-817jKVMK6rE1xJAoNOpozGkCx5H0xdezXGOx-I0GfGkuAtKJIVPNm-rb0w6_KiUStrptNf3DmijJvZTkIMHtNUPpNNcjh1MDMXScLeCj1UaNDrvnENg3AtIArYNvlGnMg2HQumn3wDxuSwEzEwWqn1zYFxv_EZcV2a4Q/s1080/png_20230418_214843_0000.png",
-          "embedlink": "https://www.youtube.com/embed/PrYfOzRYwFc"
-        }
-      ],
-      "id": 21
-    }
-  ],
-  "history": [
-    {
-      "caption": "HEERIYE",
-      "embedlink": "https://www.youtube.com/embed/RLzC55ai0eo",
-      "timestamp": "08/11/2023, 12:23:23",
       "id": 1
     },
     {
-      "caption": "NEELA NILAVE - RDX",
-      "embedlink": "https://www.youtube.com/embed/nYEoxne_20Y",
-      "timestamp": "08/11/2023, 19:39:48",
+      "category": "Music Event",
+      "allEvents": [
+        {
+          "id": "1",
+          "image": "https://jooinn.com/images/music-event-2.jpg",
+          "name": "Fusion Fiesta",
+          "email": "fusionfiesta@gmail.com",
+          "venue": "Kochi",
+          "time": "21:30",
+          "date": "2023-12-04"
+        }
+      ],
       "id": 2
     },
     {
-      "caption": "HEERIYE",
-      "embedlink": "https://www.youtube.com/embed/RLzC55ai0eo",
-      "timestamp": "08/11/2023, 19:39:51",
+      "category": "Concerts",
+      "allEvents": [
+        {
+          "id": "5",
+          "image": "https://d1k571r5p7i4n1.cloudfront.net/c.1892/large/upcoming_concerts_live_concert_Westlife_LANY.jpg",
+          "name": "Xreo Concerts",
+          "email": "xreoconcerts@gmail.com",
+          "venue": "Chennai",
+          "time": "21:30",
+          "date": "2023-12-02"
+        }
+      ],
       "id": 3
-    },
-    {
-      "caption": "DANDELIONS",
-      "embedlink": "https://www.youtube.com/embed/PrYfOzRYwFc",
-      "timestamp": "08/11/2023, 19:39:55",
-      "id": 4
-    },
-    {
-      "caption": "NEELA NILAVE - RDX",
-      "embedlink": "https://www.youtube.com/embed/nYEoxne_20Y",
-      "timestamp": "09/11/2023, 12:18:16",
-      "id": 5
-    },
-    {
-      "caption": "HEERIYE",
-      "embedlink": "https://www.youtube.com/embed/RLzC55ai0eo",
-      "timestamp": "09/11/2023, 12:33:22",
-      "id": 6
-    },
-    {
-      "caption": "HEERIYE",
-      "embedlink": "https://www.youtube.com/embed/RLzC55ai0eo",
-      "timestamp": "09/11/2023, 12:33:27",
-      "id": 7
-    },
-    {
-      "caption": "HEERIYE",
-      "embedlink": "https://www.youtube.com/embed/RLzC55ai0eo",
-      "timestamp": "09/11/2023, 12:33:37",
-      "id": 8
-    },
-    {
-      "caption": "HEERIYE",
-      "embedlink": "https://www.youtube.com/embed/RLzC55ai0eo",
-      "timestamp": "09/11/2023, 12:33:53",
-      "id": 9
-    },
-    {
-      "caption": "HEERIYE",
-      "embedlink": "https://www.youtube.com/embed/RLzC55ai0eo",
-      "timestamp": "09/11/2023, 12:34:38",
-      "id": 10
-    },
-    {
-      "caption": "AARADHYA - KUSHI",
-      "embedlink": "https://www.youtube.com/embed/hg_p_RCs_Ug",
-      "timestamp": "09/11/2023, 12:35:27",
-      "id": 11
-    },
-    {
-      "caption": "AARADHYA - KUSHI",
-      "embedlink": "https://www.youtube.com/embed/hg_p_RCs_Ug",
-      "timestamp": "09/11/2023, 12:35:30",
-      "id": 12
     }
   ]
 }
