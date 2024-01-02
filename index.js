@@ -10,7 +10,7 @@ const middleware=jsonServer.defaults()
 eventserver.use(middleware)
 eventserver.use(router)
 //setup port to server
-const port=5000 || process.env.PORT
+const port=5001 || process.env.PORT
 //to listen server for resolving request 
 eventserver.listen(port,()=>{
     console.log(`eventserver started at ${port} and ready fetch request`);
